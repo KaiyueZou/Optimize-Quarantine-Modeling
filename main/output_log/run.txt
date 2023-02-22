@@ -1,0 +1,6936 @@
+Beginning of script
+Fri Apr  8 14:28:29 EDT 2022
+riskratio_tables.py:132: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  pl.figure(1000 + (h + 1)*100 + (i + 1))
+Simulating 1 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 2 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 3 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 4 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 5 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 6 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 7 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 8 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 9 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 10 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 11 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 12 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 13 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 14 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 15 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 16 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 17 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 18 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 19 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 20 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 21 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 22 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 23 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 24 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 25 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 26 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 27 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 28 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 29 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 30 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 31 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 32 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 33 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 34 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 35 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 36 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 37 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 38 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 39 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 40 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 41 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 42 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 43 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 44 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 45 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 46 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 47 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 48 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 49 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 50 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 51 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 52 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 53 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 54 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 55 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 56 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 57 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 58 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 59 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 60 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 61 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 62 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 63 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 64 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 65 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 66 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 67 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 68 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 69 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 70 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 71 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 72 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 73 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 74 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 75 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 76 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 77 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 78 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 79 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 80 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 81 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 82 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 83 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 84 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 85 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 86 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 87 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 88 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 89 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 90 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 91 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 92 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 93 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 94 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 95 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 96 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 97 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 98 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 99 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 100 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 101 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 102 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 103 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 104 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 105 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 106 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 107 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 108 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 109 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 110 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 111 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 112 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 113 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 114 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 115 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 116 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 117 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 118 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 119 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 120 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 121 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 122 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 123 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 124 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 125 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 126 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 127 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 128 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 129 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 130 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 131 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 132 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 133 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 134 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 135 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 136 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 137 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 138 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 139 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 140 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 141 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 142 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 143 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 144 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 145 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 146 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 147 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 148 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 149 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 150 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 151 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 152 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 153 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 154 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 155 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 156 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 157 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 158 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 159 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 160 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 161 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 101 
+ 
+
+Simulating 162 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 101 
+ 
+
+Simulating 163 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 164 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 165 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 101 
+ 
+
+Simulating 1 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 2 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 3 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 4 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 5 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 6 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 7 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 8 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 9 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 10 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 11 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 12 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 13 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 14 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 15 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 16 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 17 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 18 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 19 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 20 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 21 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 22 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 23 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 24 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 25 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 26 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 27 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 28 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 29 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 30 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 31 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 32 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 33 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 34 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 35 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 36 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 37 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 38 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 39 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 40 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 41 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 42 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 43 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 44 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 45 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 46 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 47 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 48 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 49 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 50 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 51 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 52 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 53 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 54 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 55 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 56 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 57 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 58 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 59 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 60 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 61 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 62 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 63 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 64 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 65 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 66 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 67 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 68 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 69 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 70 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 71 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 72 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 73 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 74 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 75 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 76 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 77 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 78 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 79 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 80 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 81 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 82 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 83 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 84 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 85 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 86 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 87 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 88 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 89 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 90 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 91 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 92 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 93 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 94 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 95 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 96 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 97 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 98 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 99 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 100 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 101 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 102 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 103 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 104 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 105 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 106 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 107 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 108 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 109 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 110 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 111 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 112 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 113 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 114 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 115 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 116 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 117 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 118 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 119 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 120 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 121 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 122 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 123 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 124 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 125 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 126 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 127 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 128 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 129 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 130 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 131 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 132 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 133 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 134 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 135 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 136 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 137 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 138 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 139 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 140 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 141 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 142 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 143 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 144 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 145 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 146 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 147 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 148 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 149 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 150 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 151 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 152 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 153 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 154 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 155 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 156 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 157 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 158 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 159 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 160 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 161 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 102 
+ 
+
+Simulating 162 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 102 
+ 
+
+Simulating 163 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 164 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 165 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 102 
+ 
+
+Simulating 1 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 2 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 3 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 4 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 5 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 6 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 7 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 8 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 9 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 10 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 11 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 12 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 13 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 14 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 15 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 16 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 17 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 18 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 19 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 20 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 21 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 22 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 23 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 24 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 25 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 26 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 27 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 28 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 29 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 30 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 31 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 32 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 33 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 34 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 35 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 36 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 37 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 38 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 39 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 40 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 41 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 42 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 43 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 44 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 45 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 46 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 47 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 48 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 49 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 50 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 51 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 52 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 53 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 54 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 55 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 5 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 56 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 57 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 58 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 59 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 60 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 61 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 62 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 63 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 64 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 65 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 66 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 67 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 68 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 69 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 70 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 71 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 72 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 73 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 74 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 75 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 76 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 77 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 78 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 79 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 80 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 81 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 82 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 83 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 84 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 85 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 86 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 87 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 88 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 89 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 90 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 91 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 92 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 93 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 94 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 95 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 96 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 97 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 98 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 99 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 100 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 101 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 102 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 103 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 104 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 105 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 106 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 107 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 108 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 109 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 110 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 10 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 111 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 112 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 113 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 114 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 115 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 116 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 117 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 118 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 119 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 120 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.1 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 121 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 122 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 123 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 124 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 125 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.2 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 126 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 127 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 128 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 129 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 130 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.30000000000000004 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 131 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 132 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 133 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 134 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 135 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.4 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 136 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 137 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 138 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 139 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 140 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.5 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 141 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 142 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 143 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 144 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 145 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.6000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 146 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 147 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 148 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 149 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 150 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.7000000000000001 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 151 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 152 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 153 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 154 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 155 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.8 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 156 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 157 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 158 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 159 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 160 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 0.9 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 161 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.6 
+EscapeFunctionNum 103 
+ 
+
+Simulating 162 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7 
+EscapeFunctionNum 103 
+ 
+
+Simulating 163 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.7999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 164 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.8999999999999999 
+EscapeFunctionNum 103 
+ 
+
+Simulating 165 / 165 
+
+SimulationDays 2000 
+L1Proportion 0.001 
+MaxEscapeRateDay14 1.0 
+DelayVariance 1.75 
+QuarantineLength 14 
+PerfectCompliance 0 
+NOQuarantine 0 
+NewQuarantineEndRate 0 
+EscapeFunctionSlope 0.9999999999999999 
+EscapeFunctionNum 103 
+ 
+
+End of script
+Sat Apr  9 11:02:32 EDT 2022
