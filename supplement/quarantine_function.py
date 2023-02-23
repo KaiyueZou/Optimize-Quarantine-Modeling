@@ -54,6 +54,9 @@ Quarantine
 
 10/18/2021
 - updated the parameter values for Delta variant 
+
+2/22/2023
+- added `else: EscapeFunction = 0` on line 129 and 130, but they may be deleted and still work for simulation purposes 
 =================================================================================================================================
 '''
 
@@ -476,7 +479,7 @@ def parameter_vector(QuarantineLength, MaxEscapeRateDay14, EscapeFunctionSlope, 
 def scenario_machine(
     SimulationDays          = 300, 
     L1Proportion            = 0.001, 
-    # RProportion             = 0.57*0.796 + 0.09*0.307, #commented out on Feb 21th 
+    RProportion             = 0.57*0.796 + 0.09*0.307, 
     MaxEscapeRateDay14      = 1,            #The max escape rate on day 14
     DelayVariance           = 112/64,       #The variance is fixed
     QuarantineLength        = 14,           #Length of quarantine
@@ -499,7 +502,8 @@ def scenario_machine(
     NumQuarantineCmp = NewParam[0]
     x0 = np.zeros(NumRow * (NumQuarantineCmp + 3))
     x0[(NumQuarantineCmp + 3)*2] = L1Proportion        #modified on Feb 21th 2023
-    x0[0] = 1 - L1Proportion #modified on Feb 21th 2023
+    x0[0] = 1 - RProportion - L1Proportion   #if running the 6-grid figure, using `x0[0] = 1 - L1Proportion` to replace this line and the next line
+    x0[ - NumQuarantineCmp - 3] = RProportion
 
     #Output
     return NewParam, tSpan, outT, x0  
